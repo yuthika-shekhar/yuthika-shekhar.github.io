@@ -965,6 +965,10 @@ section {
   color: rgb(8, 39, 99);
 }
 
+.patents p{
+  padding-left:2em
+}
+
 .skills .info{
   padding: 30px;
   background: #fff;
